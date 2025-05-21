@@ -1,1 +1,1 @@
-# serenity-swaglabs-automation
+# ./gradlew clean runTest -Denvironment=chrome
